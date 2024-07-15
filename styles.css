@@ -1,0 +1,37 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Arial', sans-serif;
+    color: #004d40;
+    margin: 0;
+    padding: 20px;
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/snow.png');
+    background-size: cover;
+}
+
+h1, h2 {
+    color: #006064;
+    text-shadow: 1px 1px 2px #b2ebf2;
+}
+
+div {
+    background-color: rgba(224, 247, 250, 0.8);
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #006064;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #004d40;
+}
+
+button {
+    background-color: #006064;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px #004d40;
+}
+
+button:hover {
+    background-color: #004d40;
+}
